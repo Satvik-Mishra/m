@@ -1,0 +1,39 @@
+img{
+   border-radius:20px;
+   margin-top: 30px;
+   width:30%
+ 
+   
+}
+h1{
+    position:relative;
+    top:20px;
+    text-align: center;
+    
+
+}
+
+.k{
+    display:flex;
+    flex-direction:column;
+    border:solid 5px;
+    height: 200px;
+    width:100%;
+    
+}
+div{
+    background-color: yellow;
+}
+
+img{
+    position:relative;
+    top:1px;
+
+ 
+    
+}
+.lol{
+    width: 60px;
+    height:50px;
+    text-align: center;
+}
